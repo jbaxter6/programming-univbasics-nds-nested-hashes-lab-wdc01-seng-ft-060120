@@ -14,7 +14,8 @@ def assembled_aoh
   
   aoh << DON_G
   aoh << JOELLE_VD
-  aoh << PAT_M
+  aoh << PAT_M 
+  aoh << KATE_G
   aoh << BRUCE_G
   
   aoh
